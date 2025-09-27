@@ -35,6 +35,7 @@ A continuación se muestran capturas del funcionamiento de la aplicación:
 ![Ingreso de contraseña](HelloApp/img/3.png)
 ![Validación exitosa](HelloApp/img/4.png)
 ![Mostrar/Ocultar contraseña](HelloApp/img/5.png)
+![Validación exitosa](HelloApp/img/6.png)
 
 ## Estructura del proyecto
 
