@@ -30,9 +30,9 @@ Incluye botones para mostrar/ocultar la contraseña y la confirmación. Al valid
 
 A continuación se muestran capturas del funcionamiento de la aplicación:
 
-![Ingreso de contraseña](img/ingreso_contraseña.png)
-![Validación exitosa](img/validacion_exitosa.png)
-![Mostrar/Ocultar contraseña](img/mostrar_ocultar.png)
+![Ingreso de contraseña](HelloApp/img/ingreso_contraseña.png)
+![Validación exitosa](HelloApp/img/validacion_exitosa.png)
+![Mostrar/Ocultar contraseña](HelloApp/img/mostrar_ocultar.png)
 
 ## Estructura del proyecto
 
